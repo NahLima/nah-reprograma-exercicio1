@@ -42,7 +42,7 @@ Segue um vídeo explicativo!
 
 https://www.youtube.com/watch?v=7_LPdttKXPc
 
-[![vídeo](https://www.youtube.com/watch?v=7_LPdttKXPc.jpg)](https://www.youtube.com/watch?v=7_LPdttKXPc)
+
 
 
 :clap: :clap: :clap:
