@@ -20,6 +20,7 @@ Como você deve ter notado, quando navegamos na Web com nossos navegadores, norm
 
 ![imagem2](imagem\day-39-pc.png)
 
+![imagem2](imagem\day-39-pc.png?raw=true "Optional Title")
 
 ## _Para Lembrar_ 
 
