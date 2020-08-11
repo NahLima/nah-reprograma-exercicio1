@@ -10,7 +10,7 @@ A Internet surgiu a partir de um projeto da agência norte-americana Advanced Re
 Tornou-se uma infraestrutura pública nos anos 80 com o suporte dado por diversas universidades públicas e companhias privadas. As várias tecnologias que suportam a internet se acoplaram através do tempo, mas a forma de funcionamento não mudou muito: Internet é uma forma de conectar computadores e garantir, em qualquer situação, que eles encontrem uma forma de se manter conectados.
 
 
-![imagem1](imagem\112-installing.png)
+![imagem1](https://i.pinimg.com/originals/11/df/58/11df58e8d717e9358c502a66156ed374.gif)
 
 
 
