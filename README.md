@@ -18,7 +18,7 @@ Tornou-se uma infraestrutura pública nos anos 80 com o suporte dado por diversa
 
 Como você deve ter notado, quando navegamos na Web com nossos navegadores, normalmente utilizamos os nomes de domínios para chegar a um website. Isto significa que a Internet e a Web são a mesma coisa? Não tão simples assim. Como vimos, a Internet é uma infraestrutura técnica que permite conectar bilhões de computadores. Entre estes computadores, alguns computadores (chamados de servidores Web) podem enviar mensagens intelegíveis para navegadores Web. A Internet é a infraestrutura, enquanto a Web é um serviço construído sob esta infraestrutura. Vale a pena notar que existem diversos outros serviços que funcionam na Internet, tais como email e IRC.
 
-![imagem1](imagem\day-39-pc.png)
+![imagem1](\imagem\day-39-pc.png)
 
 
 ## _Para Lembrar_ 
