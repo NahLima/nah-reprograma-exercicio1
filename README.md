@@ -1,7 +1,7 @@
 ## **<h1>Curiosidades de Tecnologia</h1>**
 
 
-### _Como funciona a internet ?_ 
+## _Como funciona a internet ?_ 
 
 A Internet é a espinha dorsal da Web infraestrutura técnica que faz a Web possível. Mas basicamente, a Internet é uma gigantesca rede de computadores que se comunicam juntos.
 A Internet surgiu a partir de um projeto da agência norte-americana Advanced Research and Projects Agency (ARPA) objetivando conectar os computadores dos seus departamentos de pesquisa. A Internet nasceu à partir da ARPANET, que interligava quatro instituições: Universidade da Califórnia, LA e Santa Bárbara; Instituto de Pesquisa de Stanford e Universidade de Utah, tendo início em 1969. 
