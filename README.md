@@ -6,8 +6,8 @@
 ## _Como funciona a internet ?_ 
 
 A Internet é a espinha dorsal da Web infraestrutura técnica que faz a Web possível. Mas basicamente, a Internet é uma gigantesca rede de computadores que se comunicam juntos.
-A Internet surgiu a partir de um projeto da agência norte-americana Advanced Research and Projects Agency (ARPA) objetivando conectar os computadores dos seus departamentos de pesquisa. A Internet nasceu à partir da ARPANET, que interligava quatro instituições: Universidade da Califórnia, LA e Santa Bárbara; Instituto de Pesquisa de Stanford e Universidade de Utah, tendo início em 1969. 
-Tornou-se uma infraestrutura pública nos anos 80 com o suporte dado por diversas universidades públicas e companhias privadas. As várias tecnologias que suportam a internet se acoplaram através do tempo, mas a forma de funcionamento não mudou muito: Internet é uma forma de conectar computadores e garantir, em qualquer situação, que eles encontrem uma forma de se manter conectados.
+A Internet surgiu a partir de um projeto da agência norte-americana **Advanced Research and Projects Agency (ARPA)** objetivando conectar os computadores dos seus departamentos de pesquisa. A Internet nasceu à partir da ARPANET, que interligava quatro instituições: Universidade da Califórnia, LA e Santa Bárbara; Instituto de Pesquisa de Stanford e Universidade de Utah, tendo início em 1969. 
+Tornou-se uma infraestrutura pública nos anos 80 com o suporte dado por diversas universidades públicas e companhias privadas. As várias tecnologias que suportam a internet se acoplaram através do tempo, mas a forma de funcionamento não mudou muito: **Internet é uma forma de conectar computadores e garantir, em qualquer situação, que eles encontrem uma forma de se manter conectados**.
 
 
 ![Gif2](https://i.pinimg.com/originals/11/df/58/11df58e8d717e9358c502a66156ed374.gif)
@@ -38,7 +38,7 @@ Como você deve ter notado, quando navegamos na Web com nossos navegadores, norm
 * A comunicação via Internet pode ser de diversos tipos:dados, voz, vídeo e multimídia
 
 
-Segue um vídeo explicativo! 
+**Segue um vídeo explicativo!**
 
 https://www.youtube.com/watch?v=7_LPdttKXPc
 
