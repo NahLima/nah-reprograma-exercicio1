@@ -1,4 +1,4 @@
-## **<h1>Curiosidades de Tecnologia</h1>**
+# **Curiosidades de Tecnologia**
 
 ![Gif1](https://giffiles.alphacoders.com/209/209661.gif)
 
