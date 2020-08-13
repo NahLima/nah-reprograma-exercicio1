@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 # **Curiosidades de Tecnologia**
 
 ![Gif1](https://giffiles.alphacoders.com/209/209661.gif)
