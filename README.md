@@ -1,4 +1,4 @@
-<div style="text-align: justify">
+<div style="text-align: justify"> 
 
 # **Curiosidades de Tecnologia**
 
@@ -49,6 +49,6 @@ https://www.youtube.com/watch?v=7_LPdttKXPc
 
 :clap: :clap: :clap:
 
-
+</div>
 
 
